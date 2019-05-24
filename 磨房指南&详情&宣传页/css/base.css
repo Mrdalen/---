@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.w {
+    width: 990px;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    vertical-align: top;
+}
+
+input {
+    outline: none;
+}

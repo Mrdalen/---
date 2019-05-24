@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf12b8b8-469f-467e-a931-b7fd472f52ea" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/guide.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="203">
+                  <caret line="341" column="37" selection-start-line="341" selection-start-column="37" selection-end-line="341" selection-end-column="37" />
+                  <folding>
+                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#h2#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#ul#1;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#3;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#dl#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#dl#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#dl#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#dd#2;n#dl#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/guide.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="488">
+                  <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>control</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/normalize.css" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$USER_HOME$/Desktop/磨房图片/磨房户外指南-徒步攻略-潜水攻略-骑行攻略 - 磨房_files/guide.css" />
+        <option value="$USER_HOME$/Desktop/磨房图片/磨房指南/css/guide.css" />
+        <option value="$USER_HOME$/Desktop/磨房图片/磨房指南/index.html" />
+        <option value="$USER_HOME$/Desktop/磨房项目/磨房指南/css/dy_sns.css" />
+        <option value="$PROJECT_DIR$/js/guideXQ.js" />
+        <option value="$PROJECT_DIR$/css/guideXQ.css" />
+        <option value="$PROJECT_DIR$/css/header.css" />
+        <option value="$PROJECT_DIR$/js/header.js" />
+        <option value="$PROJECT_DIR$/js/footer.js" />
+        <option value="$PROJECT_DIR$/css/guide.css" />
+        <option value="$PROJECT_DIR$/css/footer.css" />
+        <option value="$PROJECT_DIR$/js/mofangApp.js" />
+        <option value="$PROJECT_DIR$/guideXQ.html" />
+        <option value="$PROJECT_DIR$/mofangApp.html" />
+        <option value="$PROJECT_DIR$/css/mofangApp.css" />
+        <option value="$PROJECT_DIR$/guide.html" />
+        <option value="$PROJECT_DIR$/js/guide.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mofang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mofang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/BaiduNetdiskDownload/web前端开发/10.html5和css3/h5c3资料/day02/04-代码/cart" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\WebstormProjects\JQery项目\mofang\img\guideImg" />
+      <recent name="D:\Project\WebstormProjects\JQery项目\mofang\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\WebstormProjects\JQery项目\mofang\img" />
+      <recent name="D:\Project\WebstormProjects\JQery项目\mofang\img\mofangApp" />
+      <recent name="D:\Project\WebstormProjects\JQery项目\mofang\css" />
+      <recent name="D:\Project\WebstormProjects\JQery项目\mofang\js" />
+      <recent name="D:\Project\WebstormProjects\JQery项目\mofang\img\xiangqingImg" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf12b8b8-469f-467e-a931-b7fd472f52ea" name="Default Changelist" comment="" />
+      <created>1557294307864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557294307864</updated>
+      <workItem from="1557294311018" duration="12698000" />
+      <workItem from="1557309346367" duration="2341000" />
+      <workItem from="1557317650191" duration="11566000" />
+      <workItem from="1557360545161" duration="25983000" />
+      <workItem from="1557402164337" duration="12986000" />
+      <workItem from="1557446599386" duration="19889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85463000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/Coron.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/Bangkok.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/AmneMachin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房户外指南-徒步攻略-潜水攻略-骑行攻略 - 磨房_files/guide.css" />
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房首页/css/dy_index.css" />
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房指南/css/dy_new_little_top_v2.css" />
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房指南/image/guide_dive1.png" />
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房指南/javascript/sc.min.js" />
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房指南/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房指南/css/dy_sns.css" />
+    <entry file="file://$USER_HOME$/Desktop/磨房图片/磨房指南/css/guide.css" />
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房指南/css/dy_new_little_top_v2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="210" column="1" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/aniluo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/miliwaizhuan.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/xinxilan.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/maerdaifu2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/NewZearlanbanner1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/NewZealand.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlImages/NewZealand2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房指南/css/dy_sns.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4630">
+          <caret line="1805" column="1" selection-start-line="1805" selection-start-column="1" selection-end-line="1805" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房指南/css/guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7942">
+          <caret line="233" column="37" selection-start-line="233" selection-start-column="37" selection-end-line="233" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房指南/javascript/dy_sns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="239" column="79" selection-start-line="239" selection-start-column="79" selection-end-line="239" selection-end-column="79" />
+          <folding>
+            <element signature="e#51#9021#0" />
+            <element signature="e#9703#9957#0" />
+            <element signature="e#9982#13392#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房指南/javascript/dy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#135#1562#0" />
+            <element signature="e#1592#2950#0" />
+            <element signature="e#2982#3283#0" />
+            <element signature="e#3312#3344#0" />
+            <element signature="e#3393#4369#0" />
+            <element signature="e#4423#5577#0" />
+            <element signature="e#5630#6508#0" />
+            <element signature="e#6592#7724#0" />
+            <element signature="e#7756#28557#0" />
+            <element signature="e#28581#45057#0" />
+            <element signature="e#42075#42433#0" />
+            <element signature="e#42455#42770#0" />
+            <element signature="e#42786#43432#0" />
+            <element signature="e#43488#43797#0" />
+            <element signature="e#43848#43928#0" />
+            <element signature="e#43981#45054#0" />
+            <element signature="e#45134#45172#0" />
+            <element signature="e#45201#45293#0" />
+            <element signature="e#45325#45781#0" />
+            <element signature="e#45849#45984#0" />
+            <element signature="e#46020#46182#0" />
+            <element signature="e#46210#46660#0" />
+            <element signature="e#46688#47267#0" />
+            <element signature="e#47296#47605#0" />
+            <element signature="e#47669#49090#0" />
+            <element signature="e#49147#51387#0" />
+            <element signature="e#51418#52346#0" />
+            <element signature="e#54102#54678#0" />
+            <element signature="e#54699#59527#0" />
+            <element signature="e#59595#70321#0" />
+            <element signature="e#70360#71679#0" />
+            <element signature="e#71933#72737#0" />
+            <element signature="e#72779#73045#0" />
+            <element signature="e#73080#74829#0" />
+            <element signature="e#74872#75357#0" />
+            <element signature="e#75395#76372#0" />
+            <element signature="e#76406#77174#0" />
+            <element signature="e#77208#78048#0" />
+            <element signature="e#81759#89578#0" />
+            <element signature="e#89601#91538#0" />
+            <element signature="e#91574#91643#0" />
+            <element signature="e#91656#91980#0" />
+            <element signature="e#92093#94517#0" />
+            <element signature="e#94530#94690#0" />
+            <element signature="e#94728#96443#0" />
+            <element signature="e#96472#97396#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房详情/css/dy_new_little_top_v2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="726" column="1" selection-start-line="726" selection-start-column="1" selection-end-line="726" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房详情/css/guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房详情/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="471" column="16" lean-forward="true" selection-start-line="471" selection-start-column="16" selection-end-line="471" selection-end-column="16" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#34448#34857#0" />
+            <element signature="e#34895#35214#0" />
+            <element signature="e#35230#36462#0" />
+            <element signature="e#36497#37058#0" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/guideXQ.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="145" column="1" lean-forward="true" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/guideXQ.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7032">
+          <caret line="293" column="23" selection-start-line="293" selection-start-column="23" selection-end-line="293" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bottom_sina.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房指南/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7529">
+          <caret line="149" column="54" selection-start-line="149" selection-start-column="54" selection-end-line="149" selection-end-column="54" />
+          <folding>
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5965#5969#0" expanded="true" />
+            <element signature="e#5969#5973#0" expanded="true" />
+            <element signature="n#style#0;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#li#0;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#1;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#4;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#5;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#6;n#ul#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#35637#37212#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房首页/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="715" column="44" selection-start-line="715" selection-start-column="44" selection-end-line="715" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1807">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="17275" column="17" selection-start-line="17275" selection-start-column="17" selection-end-line="17275" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.fullpage.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.fullpage.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/p1p1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房App/javascript/full.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4320" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/磨房项目/磨房App/javascript/dy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="1851" column="21" selection-start-line="1851" selection-start-column="21" selection-end-line="1851" selection-end-column="21" />
+          <folding>
+            <element signature="e#135#1562#0" />
+            <element signature="e#1592#2950#0" />
+            <element signature="e#2982#3283#0" />
+            <element signature="e#3312#3344#0" />
+            <element signature="e#3393#4369#0" />
+            <element signature="e#4423#5577#0" />
+            <element signature="e#5630#6508#0" />
+            <element signature="e#6592#7724#0" />
+            <element signature="e#7756#28557#0" />
+            <element signature="e#28581#45057#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/p2p1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="147" column="16" selection-start-line="147" selection-start-column="16" selection-end-line="147" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/guide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="77" column="24" lean-forward="true" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guideXQ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mofangApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mofangApp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="444" column="15" selection-start-line="444" selection-start-column="15" selection-end-line="444" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mofangApp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="368" column="30" lean-forward="true" selection-start-line="368" selection-start-column="30" selection-end-line="368" selection-end-column="30" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="341" column="37" selection-start-line="341" selection-start-column="37" selection-end-line="341" selection-end-column="37" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#h2#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#dl#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#dl#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#dl#2;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#dd#2;n#dl#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/guide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
